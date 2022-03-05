@@ -3,7 +3,7 @@ layout: post
 title:  "Đỉnh núi Phú sĩ một ngày cuối đông"
 author: VP Family
 categories: [ Nhật Bản, Cuộc sống ]
-image: assets/images/post-1.jpg
+image: assets/images/post_1.jpg
 tags: [Nhật Bản, cuộc sống]
 ---
 

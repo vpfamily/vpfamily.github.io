@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    VPFamily:
+    VP Family:
       name:           VP Family
       #site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
